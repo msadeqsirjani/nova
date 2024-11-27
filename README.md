@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/msadeqsirjani/nova)](https://github.com/msadeqsirjani/nova/stargazers)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/msadeqsirjani/nova/graphs/commit-activity)
 
-<img src="https://raw.githubusercontent.com/msadeqsirjani/nova/main/assets/nova-logo.png" alt="NOVA Logo" width="200"/>
+<img src="https://github.com/msadeqsirjani/nova/blob/master/docs/images/nova-logo.png" alt="NOVA Logo" width="200"/>
 
 *Your Intelligent Virtual Assistant for Natural Operations*
 
@@ -53,7 +53,7 @@ python src/main.py
 
 ## 📖 Documentation
 
-For detailed documentation, please visit our [Wiki](https://github.com/yourusername/nova/wiki).
+For detailed documentation, please visit our [Wiki](https://github.com/msadeqsirjani/nova/wiki).
 
 ## 🤝 Contributing
 
@@ -71,13 +71,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Team
 
-- Your Name - *Project Lead* - [@yourusername](https://github.com/yourusername)
+- MOHAMMAD SADEGH SIRJANI - *Project Lead* - [@msadeqsirjani](https://github.com/msadeqsirjani)
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+MOHAMMAD SADEGH SIRJANI - [@msadeqsirjani](https://twitter.com/msadeqsirjani) - m.sadeq.sirjani@gmail.com
 
-Project Link: [https://github.com/yourusername/nova](https://github.com/yourusername/nova)
+Project Link: [https://github.com/msadeqsirjani/nova](https://github.com/msadeqsirjani/nova)
 
 ## 🙏 Acknowledgments
 
